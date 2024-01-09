@@ -1,6 +1,6 @@
-import animals.Kotik;
+import animals.*;
 
-public class Main {
+public class Application {
     public static void main(String[] args) {
 
         Kotik bigKotik = new Kotik("Барс","Мяу",5,20);
